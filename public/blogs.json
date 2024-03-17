@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/tcmtvj2/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "title": "The Mystery of Azure Waters",
+      "author": "Samantha Smith",
+      "author_img": "https://i.ibb.co/K08pc2S/gregory-hayes-h5cd51-KXm-RQ-unsplash.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 8,
+      "hashtags": ["mystery", "thriller", "adventure"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/gMdyMr2/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "Infinite Dreams",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/3fy7V1R/foto-sushi-6anudmp-ILw4-unsplash.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 5,
+      "hashtags": ["fantasy", "imagination", "dreams"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/wy40jBJ/online-blog.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Emily Davis",
+      "author_img": "https://i.ibb.co/mtwDTsz/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 6,
+      "hashtags": ["sciencefiction", "time_travel", "adventure"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/HGJ7zC1/jess-bailey-q10-VITr-VYUM-unsplash.jpg",
+      "title": "Whispers in the Dark",
+      "author": "Daniel Brown",
+      "author_img": "https://i.ibb.co/QjXC3hH/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 9,
+      "hashtags": ["horror", "suspense", "mystery"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/C5jHY3t/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "title": "The Secret Garden",
+      "author": "Jessica Lee",
+      "author_img": "https://i.ibb.co/PWCFNr8/nick-karvounis-Jy-O-szj-Gv-Uw-unsplash.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 10,
+      "hashtags": ["romance", "nature", "beauty"]
+    }
+  ]
+  
